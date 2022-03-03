@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Amadeus-System/Amadeus-System** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+Hi, People!
+
+I am a Graduate Student on Master's Degree.
+
