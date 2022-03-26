@@ -1,12 +1,8 @@
 
-**Amadeus-System/Amadeus-System** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-👋 Hi, I’m Amadeus-System
+- 👋 Hi, I’m a Graduate student majoring in Computational physics in Master's degree.
 - 🔭 I’m currently working on Benchmark Study of Graph Neural Networks related to Halide Perovskite.
 - 🌱 I’m currently learning Computational Physics such as DFT and Geometric Deep Learning.
 - 👯 The programming languages I can handle include Python, C, JAVA etc.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: lelouch0316@naver.com, https://lelouch0316.tistory.com/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact 
