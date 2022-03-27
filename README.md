@@ -8,9 +8,6 @@
 - 📫 How to reach me: blog --> https://lelouch0316.tistory.com/
 - ⚡ Fun fact 
 
-
-
-
 <div align=center>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Amadeus-System)](https://hits.seeyoufarm.com) 
 </div>
@@ -25,5 +22,5 @@
 - making simple web
 - talking something
   
-[![Jeonghun Kim's github stats](https://github-readme-stats.vercel.app/api?username=BBlack-Hun)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBlack-Hun&layout=compact&theme=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Jeonghun Kim's github stats](https://github-readme-stats.vercel.app/api?username=Amadeus-System)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amadeus-System&layout=compact&theme=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
