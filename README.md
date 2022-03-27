@@ -3,12 +3,11 @@
 
 - 👋 Hi, I’m a **Graduate student majoring in Computational physics in Master's degree**.
 - 🔭 I’m currently working on **Benchmark Study of Graph Neural Networks related to Halide Perovskite**.
-- 🌱 I’m currently learning **Density Functional Theory (DFT), Molecular Dynamic (MD) Simulation with VASP, D-Wave Quantum Annealing, Geometric Deep Learning**.
+- 🌱 I’m currently learning **Density Functional Theory (DFT), Molecular Dynamic (MD) Simulation with VASP** in my lab. 
+- ⚡ I'm currently learning **D-Wave Quantum Annealing, Geometric Deep Learning** Personally.
 - 👯 I'm interested in **Artificial Intelligence**, especially **Graph Neural Network** and **Generative Modeling**.
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: email --> lelouch0316@naver.com 
 - 📫 How to reach me: blog --> https://lelouch0316.tistory.com/
-- ⚡ Fun fact 
 
 <div align=center>
 
