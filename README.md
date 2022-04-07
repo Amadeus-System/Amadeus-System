@@ -15,5 +15,6 @@
 </div>
 
 
-[![Jeonghun Kim's github stats](https://github-readme-stats.vercel.app/api?username=Amadeus-System)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amadeus-System&layout=compact&theme=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyeongseon Park's Github Stats](https://github-readme-stats.vercel.app/api?username=Amadeus-System)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amadeus-System&layout=compact&theme=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
