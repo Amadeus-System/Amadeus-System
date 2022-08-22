@@ -7,7 +7,7 @@
 - ⚡ I'm interested in **Artificial Intelligence**, especially **Graph Neural Network** and **Generative Modeling on Graph**.
 - 📫 How to reach me: email --> lelouch0316@naver.com 
 - 📫 How to reach me: blog --> https://lelouch0316.tistory.com/
-- 📫 Currently, attending to Market Kurly Hackathon
+- 📫 Currently, I am attending to Market Kurly Hackathon
 
 <div align=center>
 
