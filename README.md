@@ -7,6 +7,7 @@
 - ⚡ I'm interested in **Artificial Intelligence**, especially **Graph Neural Network** and **Generative Modeling on Graph**.
 - 📫 How to reach me: email --> lelouch0316@naver.com 
 - 📫 How to reach me: blog --> https://lelouch0316.tistory.com/
+- 📫 I've received a job offer for AI developer!
 
 
 <div align=center>
