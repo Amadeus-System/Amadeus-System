@@ -1,5 +1,5 @@
 
-## Computational Physics Researcher
+## Computational Physics Researcher / AI Developer
 
 - 👋 Hi, I’m a **Graduate student majoring in Computational physics in Master's degree**.
 - 🔭 I’m currently working on **Benchmark Study of Graph Neural Networks related to Halide Perovskite**.
