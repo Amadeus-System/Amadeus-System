@@ -5,8 +5,6 @@
 - 🔭 I’m currently working on **Benchmark Study of Graph Neural Networks related to Halide Perovskite**.
 - 🌱 I’m currently learning **Geometric Deep Learning**, **Density Functional Theory (DFT) with VASP**, **D-Wave Quantum Annealing**. 
 - ⚡ I'm interested in **Artificial Intelligence**, especially **Graph Neural Network** and **Generative Modeling on Graph**.
-- 📫 How to reach me: email --> lelouch0316@naver.com 
-- 📫 How to reach me: blog --> https://lelouch0316.tistory.com/
 
 <div align=center>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Amadeus-System)](https://hits.seeyoufarm.com) 
