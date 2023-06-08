@@ -2,8 +2,8 @@
 ## Computational Physics Researcher / AI Developer
 
 - 👋 Hi, I have a **Master's degree in Computational Physics**.
-- 🔭 I’m currently working on **Benchmark Study of Graph Neural Networks related to Halide Perovskite**.
-- 🌱 I’m currently learning **Geometric Deep Learning**, **Density Functional Theory (DFT) with VASP**, **D-Wave Quantum Annealing**. 
+- 🔭 I’m have worked on **Benchmark Study of Graph Neural Networks related to Halide Perovskite**.
+- 🌱 I’m have learned **Geometric Deep Learning**, **Density Functional Theory (DFT) with VASP** and **D-Wave Quantum Annealing**. 
 - ⚡ I'm interested in **Artificial Intelligence**, especially **Graph Neural Network** and **Generative Modeling on Graph**.
 - ⚡ I'm Working as a senior researcher in data analysis team in my company.
 
@@ -13,3 +13,4 @@
 
 [![Hyeongseon Park's Github Stats](https://github-readme-stats.vercel.app/api?username=Amadeus-System)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amadeus-System&layout=compact&theme=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
