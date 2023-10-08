@@ -5,7 +5,8 @@
 - 🔭 I’m have worked on **Benchmark Study of Graph Neural Networks related to Halide Perovskite**.
 - 🌱 I’m have learned **Geometric Deep Learning**, **Density Functional Theory (DFT) with VASP** and **D-Wave Quantum Annealing**. 
 - ⚡ I'm interested in **Artificial Intelligence**, especially **Graph Neural Network** and **Generative Modeling on Graph**.
-- ⚡ I'm Working as a senior researcher in data analysis team in my company.
+- ⚡ I'm Working as a senior researcher in Data-Analysis team in my company.
+- ⚡ Thesedays, I'm looking for a new job related to **material discovery**!
 
 <div align=center>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Amadeus-System)](https://hits.seeyoufarm.com) 
