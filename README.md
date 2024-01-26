@@ -11,7 +11,9 @@
 <br>
 
 <div align="center" style="text-align:center">
+    
     ![Hyeongseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amadeus-System&theme=material-palenight&show_icons=true)
+
 </div>
 
 <br>
