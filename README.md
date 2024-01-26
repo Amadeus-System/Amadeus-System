@@ -8,12 +8,10 @@
 - ⚡ I'm Working as a senior researcher in Data-Analysis team in my company.
 - ⚡ Thesedays, I'm looking for a new job related to **material discovery**!
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/3776AB?style=flat-square&logo=로고&logoColor=3776AB"/></a>
-
 ![Hyeongseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amadeus-System&theme=material-palenight&show_icons=true)
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/PyG-3C2179?style=flat-square&logo=PyG&logoColor=white"/></a>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/PyG-3C2179?style=flat-square&logo=PyG&logoColor=white"/></a>&nbsp 
+</p>
