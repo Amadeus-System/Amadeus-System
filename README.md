@@ -10,7 +10,7 @@
 
 <br>
 
-![Hyeongseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amadeus-System&theme=material-palenight&show_icons=true)
+![Hyeongseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amadeus-System&theme=material-palenight&show_icons=true&include_all_commits=true)
 
 <br>
 
