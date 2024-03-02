@@ -1,5 +1,5 @@
 
-## Computational Physics Researcher / AI Developer
+## Computational Physics Researcher & AI Developer
 
 - 👋 Hi, I have a **Master's degree in Computational Physics**.
 - 🔭 I’m have worked on **Benchmark Study of Graph Neural Networks related to Halide Perovskite**.
