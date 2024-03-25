@@ -5,7 +5,7 @@
 - 👋 Hi, I have a **Master's degree in Computational Physics**.
 - 🔭 I’m have worked on **Benchmark Study of Graph Neural Networks related to Halide Perovskite**.
 - 🌱 I’m have learned **Density Functional Theory (DFT) with VASP**, **D-Wave Quantum Annealing** and **Graph Neural Network (GNN)**. 
-- ⚡ I'm interested in **Artificial Intelligence**, which means that I would like to observe the very special moment when the true-intelligence in born in the universe.
+- ⚡ I'm interested in **Artificial Intelligence**, which means that I would like to observe the very special moment when the true-intelligence is born in the universe.
 - ⚡ I'm very interested in **Theretical Physics**, **Computational Optimization** such as Many-body Schrodinger Equation in quantum-theory and 
 - ⚡ I'm currently working as an AI researcher for my company, which is related to real-world anomaly detection for image, video, timeseries information.
 
