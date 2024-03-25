@@ -8,6 +8,7 @@
 - ⚡ I'm interested in **Artificial Intelligence**, which means that I would like to observe the very special moment when the true-intelligence is born in the universe.
 - ⚡ I'm very interested in **Theretical Physics** such as Many-body Schrodinger Equation in quantum-theory.
 - ⚡ I'm currently working as an AI researcher for my company, which is related to real-world anomaly detection for image, video, timeseries information.
+- ⚡ Currently-progressing personal project : Library analysis, Study about Deep Learning, Computer Science, etc.
 
 <br>
 
