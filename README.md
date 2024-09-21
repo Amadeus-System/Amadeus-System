@@ -12,10 +12,6 @@
 
 <br>
 
-![Hyeongseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amadeus-System&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true")
-
-<br>
-
 <p align="center">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
     <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
