@@ -1,4 +1,4 @@
-# Computational Physics Researcher & AI Developer
+# Computational Physics Researcher & Machine Learning Engineer
 
 ## Who Am I?
 
