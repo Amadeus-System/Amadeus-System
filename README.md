@@ -6,7 +6,7 @@
 - 🔭 I have worked on **Benchmark Study of Graph Neural Networks related to Halide Perovskite** for High-throughput Material Screening with Deep Learning.
 - 🌱 I have learned **Density Functional Theory (DFT) with VASP**, **D-Wave Quantum Annealing** and **Graph Neural Network (GNN)**. 
 - ⚡ I'm very interested in **Theoretical Physics** such as Many-body Schrodinger Equation in Quantum Field Theory.
-- ⚡ I'm currently working as an AI researcher for my company, which is related to real-world anomaly detection for image, video, timeseries information.
+- ⚡ I have worked as an AI researcher for the previous company, which is related to real-world anomaly detection for image, video, timeseries information.
 - ⚡ Currently-progressing personal learning: Large Language Model Application
 
 <br>
